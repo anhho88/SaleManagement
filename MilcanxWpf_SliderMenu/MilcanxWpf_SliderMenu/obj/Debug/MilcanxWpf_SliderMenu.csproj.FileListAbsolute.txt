@@ -1,0 +1,31 @@
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.exe.config
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.exe
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.pdb
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MainWindow.g.cs
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\App.g.cs
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu_MarkupCompile.cache
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu_MarkupCompile.lref
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\App.baml
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MainWindow.baml
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.g.resources
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.Properties.Resources.resources
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.csproj.GenerateResource.Cache
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.exe
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.pdb
+C:\Users\MilcanX\Documents\Visual Studio 2015\Projects\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.csprojResolveAssemblyReference.cache
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.exe.config
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.exe
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\bin\Debug\MilcanxWpf_SliderMenu.pdb
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.csprojResolveAssemblyReference.cache
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MainWindow.g.cs
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\App.g.cs
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu_MarkupCompile.cache
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu_MarkupCompile.lref
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\App.baml
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MainWindow.baml
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.g.resources
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.Properties.Resources.resources
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.csproj.GenerateResource.Cache
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.csproj.CoreCompileInputs.cache
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.exe
+D:\Download\MilcanxWpf_SliderMenu\MilcanxWpf_SliderMenu\obj\Debug\MilcanxWpf_SliderMenu.pdb
