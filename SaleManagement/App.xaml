@@ -1,0 +1,31 @@
+﻿<Application x:Class="SaleManagement.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:SaleManagement"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!--Controls resource-->
+                <ResourceDictionary Source="/Assets/Resources/customWindow.xaml"/>
+
+                <!--Colors resource-->
+                <ResourceDictionary>
+                    <SolidColorBrush x:Key="backgroundYET" Color="#FFFFFF7F"/>
+                    <SolidColorBrush x:Key="backgroundOK" Color="#FF65FF9B"/>
+                    <SolidColorBrush x:Key="backgroundNG" Color="#FFFF9F7F"/>
+                    <SolidColorBrush x:Key="colortextYET" Color="#FFF9A825"/>
+                    <SolidColorBrush x:Key="colortextOK" Color="#FF46E81E"/>
+                    <SolidColorBrush x:Key="colortextNG" Color="#FFD50000"/>
+                    <SolidColorBrush x:Key="colortextTitle" Color="#FFE0E0E0"/>
+                    <SolidColorBrush x:Key="colortextContent" Color="#FF636363"/>
+                    <SolidColorBrush x:Key="colorBorder" Color="#FF039BE5"/>
+                    <SolidColorBrush x:Key="backgroundDeepSea" Color="#FF055377"/>
+                    <SolidColorBrush x:Key="backgroundGreen" Color="#FF177C72"/>
+                    <SolidColorBrush x:Key="backgroundBlue" Color="#FF00BCF2"/>
+                </ResourceDictionary>
+                
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
